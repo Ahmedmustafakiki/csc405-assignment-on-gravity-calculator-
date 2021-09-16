@@ -1,1 +1,0 @@
-# csc405-assignment-on-gravity-calculator-
